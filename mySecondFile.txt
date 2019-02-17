@@ -1,5 +1,9 @@
 Al doilea fisier
 
+<<<<<<< HEAD
 prima modificare
 
 A doua modificare
+=======
+prima modificare
+>>>>>>> 80e783c9da0382823005c8d89d5b96c821f25cc9
