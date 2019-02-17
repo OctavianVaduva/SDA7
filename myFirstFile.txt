@@ -3,3 +3,5 @@ myFirstText
 A doua inscriere in fisier.
 
 A treia modificare.
+
+Modificare pentru  git.diff
